@@ -142,10 +142,10 @@ Right-click on the test class or individual test methods and select "Run Tests" 
 The Test Explorer will show the results of your tests. Green checkmarks indicate passing tests, and red crosses indicate failing tests.
 
 finally
-      FRONT-END WE USED THE ANGULAR
-      BACKEND WE USED THE REST API
-      SERVERSIDE WE USED THE SQL SERVER
-      TESTING WE USE THED NUNIT
+      FRONT-END WE USED THE ANGULAR.
+      BACKEND WE USED THE REST API.
+      SERVERSIDE WE USED THE SQL SERVER.
+      TESTING WE USEd THED NUNIT.
 
 OOPS PRICIPLES:
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields (often known as attributes or properties) and code, in the form of procedures (often known as methods). The four main principles of OOP are encapsulation, inheritance, polymorphism, and abstraction.
