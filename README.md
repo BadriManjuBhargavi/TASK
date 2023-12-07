@@ -148,16 +148,21 @@ finally
       TESTING WE USEd THED NUNIT.
 
 OOPS PRICIPLES:
+
 Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects," which can contain data in the form of fields (often known as attributes or properties) and code, in the form of procedures (often known as methods). The four main principles of OOP are encapsulation, inheritance, polymorphism, and abstraction.
+
 1.Encapsulation:
 Simple Explanation: Encapsulation is like putting things in a box. You have some data (variables) and the methods (functions) that work on that data, and you put them together in a class.
 Example: Think of a TV remote. You don't need to know how the buttons inside the remote work; you just press the buttons, and the remote does its job. The internal workings are encapsulated within the remote.
+
 2.Inheritance:
 Simple Explanation: Inheritance is like inheriting traits from your parents. A new class (child class) can use the properties and methods of an existing class (parent class).
 Example: If you have a class representing a generic "Vehicle," you can create a more specific class like "Car" or "Motorcycle" that inherits characteristics from the "Vehicle" class.
+
 3.Polymorphism:
 Simple Explanation: Polymorphism is like using the same name for different things. You can use a single interface (method name) to represent different implementations.
 Example: Think of a "draw" method. In a "Circle" class, it might draw a circle, and in a "Square" class, it might draw a square. You use the same method name ("draw"), but the actual behavior depends on the object.
+
 4.Abstraction:
 Simple Explanation: Abstraction is like simplifying things by showing only what's necessary. You focus on the essential features and ignore unnecessary details.
 Example: When you drive a car, you don't need to know how the engine works. 
