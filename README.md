@@ -51,7 +51,7 @@ app.UseCors(Options => Options.WithOrigins("http://localhost:4200").AllowAnyMeth
 
 16.After that you can check through the swagger nd GET PUT POST DELETE 
 
-16.The HTTP methods GET, PUT, POST, and DELETE are used to perform different operations. These methods correspond to the CRUD (Create, Read, Update, Delete) operations commonly associated with database applications and RESTful APIs
+17.The HTTP methods GET, PUT, POST, and DELETE are used to perform different operations. These methods correspond to the CRUD (Create, Read, Update, Delete) operations commonly associated with database applications and RESTful APIs
 
 
 1.GET: This method is used to retrieve information or data from the server. When you make a GET request to a specific endpoint (URL), you are asking the server to give you some data.
@@ -168,6 +168,7 @@ Simple Explanation: Abstraction is like simplifying things by showing only what'
 Example: When you drive a car, you don't need to know how the engine works. 
 
 DRY PRICIPLE:
+
 The DRY principle, which stands for Don't Repeat Yourself, is a fundamental best practice in software development. Its core message is simple: every piece of knowledge should have a single, unambiguous, authoritative representation within a system. In other words, you should avoid duplicating code or logic wherever possible.
 By adhering to the DRY principle, you can achieve numerous benefits for your software:
 Reduced code size: Eliminating duplicate code reduces the overall size of your codebase, making it easier to navigate and maintain.
