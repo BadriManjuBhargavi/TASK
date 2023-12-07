@@ -1,4 +1,4 @@
-EXPLANATION:BACK-END
+#EXPLANATION:BACK-END
 1. Install Visual Studio 2022
 Make sure you have Visual Studio 2022 installed on your machine. You can download it from the official Visual Studio website.
 
@@ -71,7 +71,7 @@ DELETE is like asking to remove something.
 
 These methods help define the actions that can be performed on the server, allowing clients (such as a web or mobile application) to interact with the data stored on the server.
 
-ANGULAR:
+##ANGULAR:
 
  Angular is a front-end application we have already created the folder front end inside the folder open the command prompt and type the commands.
 
@@ -116,7 +116,7 @@ npm i bootstrap
      2.Open your browser and navigate to http://localhost:4200/.
      3.This example is a simple demonstration of creating an Angular project
 
-Testing:
+###Testing:
 
 1. Create a Test Project
     
